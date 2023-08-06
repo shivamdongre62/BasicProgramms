@@ -15,6 +15,12 @@ namespace EveryQuestionsAnswers.BasicFunctions
             Console.WriteLine("Shivam");
 
         }
+        public int Sum(int x,int y)
+        {
+            int sum = 0;
+            sum = x + y;
+            return sum;
+        }
 
     }
 }

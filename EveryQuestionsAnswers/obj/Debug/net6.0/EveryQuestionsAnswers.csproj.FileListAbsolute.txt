@@ -1,0 +1,15 @@
+D:\BasicC#\First\BasicProgramms\EveryQuestionsAnswers\obj\Debug\net6.0\EveryQuestionsAnswers.csproj.AssemblyReference.cache
+D:\BasicC#\First\BasicProgramms\EveryQuestionsAnswers\obj\Debug\net6.0\EveryQuestionsAnswers.GeneratedMSBuildEditorConfig.editorconfig
+D:\BasicC#\First\BasicProgramms\EveryQuestionsAnswers\obj\Debug\net6.0\EveryQuestionsAnswers.AssemblyInfoInputs.cache
+D:\BasicC#\First\BasicProgramms\EveryQuestionsAnswers\obj\Debug\net6.0\EveryQuestionsAnswers.AssemblyInfo.cs
+D:\BasicC#\First\BasicProgramms\EveryQuestionsAnswers\obj\Debug\net6.0\EveryQuestionsAnswers.csproj.CoreCompileInputs.cache
+D:\BasicC#\First\BasicProgramms\EveryQuestionsAnswers\bin\Debug\net6.0\EveryQuestionsAnswers.exe
+D:\BasicC#\First\BasicProgramms\EveryQuestionsAnswers\bin\Debug\net6.0\EveryQuestionsAnswers.deps.json
+D:\BasicC#\First\BasicProgramms\EveryQuestionsAnswers\bin\Debug\net6.0\EveryQuestionsAnswers.runtimeconfig.json
+D:\BasicC#\First\BasicProgramms\EveryQuestionsAnswers\bin\Debug\net6.0\EveryQuestionsAnswers.dll
+D:\BasicC#\First\BasicProgramms\EveryQuestionsAnswers\bin\Debug\net6.0\EveryQuestionsAnswers.pdb
+D:\BasicC#\First\BasicProgramms\EveryQuestionsAnswers\obj\Debug\net6.0\EveryQuestionsAnswers.dll
+D:\BasicC#\First\BasicProgramms\EveryQuestionsAnswers\obj\Debug\net6.0\refint\EveryQuestionsAnswers.dll
+D:\BasicC#\First\BasicProgramms\EveryQuestionsAnswers\obj\Debug\net6.0\EveryQuestionsAnswers.pdb
+D:\BasicC#\First\BasicProgramms\EveryQuestionsAnswers\obj\Debug\net6.0\EveryQuestionsAnswers.genruntimeconfig.cache
+D:\BasicC#\First\BasicProgramms\EveryQuestionsAnswers\obj\Debug\net6.0\ref\EveryQuestionsAnswers.dll

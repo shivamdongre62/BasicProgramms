@@ -11,6 +11,8 @@ namespace EveryQuestionsAnswers
             /*obj.Sum(17, 45)*/;
             Console.WriteLine(obj.Sum(17, 45));
             Console.WriteLine(obj.Division(17, 45));
+            obj.Swap(10, 14);
+
 
         }
     }
